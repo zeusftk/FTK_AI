@@ -7,6 +7,9 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
 
 针对12G显存设备与Mac M系列芯片深度优化，可精准释放硬件性能，让AI驱动的多媒体创作高效流畅。
 
+## windows版本
+下载地址:https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+
 
 ## 功能列表  
 项目功能按类别分为视频类、音频类、剪辑类，具体如下：  
