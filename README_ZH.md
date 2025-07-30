@@ -13,7 +13,16 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
 ## 🔥 Latest Upate!!
 
 * 2025-07-30: 👋 v6.01 已发布，性能：图生视频1280*2048 96帧,NVIDIA 3060 11分钟，NVIDIA 4090 生成时间3分钟。
-[观看案例视频](https://www.douyin.com/video/7532697296916581668)
+<div align="center">
+  <h3>示例视频</h3>
+  <!-- a 标签的 href 指向抖音视频链接，img 作为可点击的内容 -->
+  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank">
+    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
+         alt="视频预览图" 
+         width="60%" 
+         align="center">
+  </a>
+</div>
 
 
 ## 功能列表  
