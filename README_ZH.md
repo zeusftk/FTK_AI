@@ -16,7 +16,7 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
 <div align="center">
   <h3>示例视频</h3>
   <!-- a 标签的 href 指向抖音视频链接，img 作为可点击的内容 -->
-  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank">
+  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
          alt="视频预览图" 
          width="60%" 
