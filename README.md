@@ -13,7 +13,17 @@ Download link: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
 ## 🔥 Latest Update!!
 
 * 2025-07-30: 👋 v6.01 has been released. Performance: 1280*2048 96-frame video generated from image takes 11 minutes with NVIDIA 3060 and 3 minutes with NVIDIA 4090.
-[Watch the demo video](https://www.douyin.com/video/7532697296916581668)
+<div align="center">
+  <h3>示例视频</h3>
+  <!-- a 标签的 href 指向抖音视频链接，img 作为可点击的内容 -->
+  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank">
+    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
+         alt="视频预览图" 
+         width="60%" 
+         align="center">
+  </a>
+</div>
+
 
 
 ## Feature List  
