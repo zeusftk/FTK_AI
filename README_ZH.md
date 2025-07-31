@@ -12,6 +12,7 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
 
 ## 🔥 Latest Upate!!
 
+* 2025-07-31: 👋 v6.02 已发布，添加wan2.2模型 优化视频效果，添加v2v功能 和 运镜视频生成功能。
 * 2025-07-30: 👋 v6.01 已发布，性能：图生视频1280*2048 96帧,NVIDIA 3060 11分钟，NVIDIA 4090 生成时间3分钟。
 <div align="center">
   <h3>I2V 示例视频</h3>
