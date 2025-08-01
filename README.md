@@ -15,50 +15,39 @@ Download link: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
 * 2025-07-30: 👋 v6.01 has been released. Performance: 1280*2048 96-frame video generated from image takes 11 minutes with NVIDIA 3060 and 3 minutes with NVIDIA 4090.
 
 <div align="center">
-  <h3>I2V 示例视频</h3>
-  <!-- a 标签的 href 指向抖音视频链接，img 作为可点击的内容 -->
-  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
-         alt="视频预览图" 
-         width="30%" 
-         align="left">
-  </a>
+  <h3>示例视频</h3>
+  <table width="100%">
+  <tr>
+    <!-- 第一列 -->
+    <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
+      <p><b>图生视频（I2V）</b></p>
+      <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
+             alt="视频预览图" width="30%" 
+             align="center">
+      </a>  
+    </td>
+    <!-- 第二列 -->
+    <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
+      <p><b>视频外补（outpaint）</b></p>
+      <a href="https://www.douyin.com/video/7533483231333666111" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/11.png" 
+             alt="视频预览图" width="55%" 
+             align="center">
+      </a>  
+    </td>
+    <!-- 第三列 -->
+    <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
+      <p><b>视频重绘（V2V）</b></p>
+      <a href="https://www.douyin.com/video/7532775589111926057" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
+             alt="视频预览图" width="60%" 
+             align="center">
+      </a>  
+    </td>
+  </tr>
+</table>
   
-  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
-         alt="视频预览图" 
-         width="30%" 
-         align="center">
-  </a>
-  <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
-         alt="视频预览图" 
-         width="30%" 
-         align="right">
-  </a>
-</div>
-
-<div align="center">
-  <h3>V2V 示例视频</h3>
-  <!-- a 标签的 href 指向抖音视频链接，img 作为可点击的内容 -->
-  <a href="https://www.douyin.com/video/7532775589111926057" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
-         alt="视频预览图" 
-         width="30%" 
-         align="left">
-  </a>
-  <a href="https://www.douyin.com/video/7532775589111926057" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
-         alt="视频预览图" 
-         width="30%" 
-         align="center">
-  </a>
-  <a href="https://www.douyin.com/video/7532775589111926057" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
-         alt="视频预览图" 
-         width="30%" 
-         align="right">
-  </a>
 </div>
 
 
