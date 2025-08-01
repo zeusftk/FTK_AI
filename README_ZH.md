@@ -28,13 +28,10 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
     <!-- 第一列 -->
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>图生视频（I2V）</b></p>
-      <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
-             alt="视频预览图" width="30%"  
-             align="left">
       <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
              alt="视频预览图" width="30%" 
-             align="right">
+             align="center">
       </a>  
     </td>
     <!-- 第二列 -->
