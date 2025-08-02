@@ -28,7 +28,9 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
         <img src="/src/FTK_00003.png" 
              alt="视频预览图" width="30%" 
              align="center">
-      </a>  
+      </a>
+     <br>
+      <strong><a href="https://www.douyin.com/video/7532697296916581668">▶️ 图生视频演示视频</a></strong>
     </td>
     <!-- 第二列 -->
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
@@ -37,7 +39,9 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
         <img src="/src/11.png" 
              alt="视频预览图" width="55%" 
              align="center">
-      </a>  
+      </a>
+      <br>
+      <strong><a href="https://www.douyin.com/video/7533483231333666111">▶️ 视频外补演示视频</a></strong>
     </td>
     <!-- 第三列 -->
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
@@ -46,7 +50,9 @@ FTK_AI_Auto（Fast Toolkit AI Automation）是一款功能强大的多媒体处�
         <img src="/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
              alt="视频预览图" width="60%" 
              align="center">
-      </a>  
+      </a>
+      <br>
+      <strong><a href="https://www.douyin.com/video/7532775589111926057">▶️ 视频重绘演示视频</a></strong>
     </td>
   </tr>
 </table>
