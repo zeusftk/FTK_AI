@@ -11,39 +11,90 @@ It is deeply optimized for 12G VRAM devices and Mac M-series chips, which can ac
 Download link: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
 
 ## 🔥 Latest Update!!
+* 2025-08-11: 👋 v6.05 has been released. Added a built-in local LLM upon startup, allowing LLM chat functionality without API configuration. Added video and image face swapping features.
+*  2025-08-01: 👋 v6.03 has been released. Added video outpainting functionality, located in the "Batch Video Conversion" section under the "Modify Video Aspect Ratio" mode. Added the "Batch Video Character Motion Transfer" feature.
 * 2025-07-31: 👋 v6.02 has been released. add wan2.2 support，video quility improve，add v2v，camera motions 
 * 2025-07-30: 👋 v6.01 has been released. Performance: 1280*2048 96-frame video generated from image takes 11 minutes with NVIDIA 3060 and 3 minutes with NVIDIA 4090.
 
+
+
+
+
 <div align="center">
   <h3>示例视频</h3>
+  
   <table width="100%">
   <tr>
     <!-- 第一列 -->
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>图生视频（I2V）</b></p>
       <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
+        <img src="/src/FTK_00003.png" 
              alt="视频预览图" width="30%" 
              align="center">
-      </a>  
+      </a>
+     <br>
+      <strong><a href="https://www.douyin.com/video/7532697296916581668">▶️ 图生视频演示视频</a></strong>
     </td>
     <!-- 第二列 -->
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>视频外补（outpaint）</b></p>
       <a href="https://www.douyin.com/video/7533483231333666111" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/11.png" 
+        <img src="/src/11.png" 
              alt="视频预览图" width="55%" 
              align="center">
-      </a>  
+      </a>
+      <br>
+      <strong><a href="https://www.douyin.com/video/7533483231333666111">▶️ 视频外补演示视频</a></strong>
     </td>
     <!-- 第三列 -->
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>视频重绘（V2V）</b></p>
       <a href="https://www.douyin.com/video/7532775589111926057" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
+        <img src="/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
              alt="视频预览图" width="60%" 
              align="center">
-      </a>  
+      </a>
+      <br>
+      <strong><a href="https://www.douyin.com/video/7532775589111926057">▶️ 视频重绘演示视频</a></strong>
+    </td>
+  </tr>
+</table>
+ <!-- 第二行 -->
+<table width="100%">
+  <tr>
+    <!-- 第一列 -->
+    <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
+      <p><b>图生视频（I2V）自动运镜</b></p>
+      <a href="https://www.douyin.com/video/7535101962937748775" target="_blank" rel="noopener noreferrer">
+        <img src="/src/FTK_00004.png" 
+             alt="视频预览图" width="30%" 
+             align="center">
+      </a>
+     <br>
+      <strong><a href="https://www.douyin.com/video/753510196293774877">▶️ 自动运镜演示视频</a></strong>
+    </td>
+    <!-- 第二列 -->
+    <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
+      <p><b>图生视频（I2V）表情包特效</b></p>
+      <a href="https://www.douyin.com/video/7535331210071903524" target="_blank" rel="noopener noreferrer">
+        <img src="/src/FTK_00005.png" 
+             alt="视频预览图" width="30%" 
+             align="center">
+      </a>
+      <br>
+      <strong><a href="https://www.douyin.com/video/7535331210071903524">▶️ 表情包特效演示视频</a></strong>
+    </td>
+    <!-- 第三列 -->
+    <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
+      <p><b>视频重绘（V2V）动作迁移</b></p>
+      <a href="https://www.douyin.com/video/7537684455952010535" target="_blank" rel="noopener noreferrer">
+        <img src="/src/FTK_00006.png" 
+             alt="视频预览图" width="60%" 
+             align="center">
+      </a>
+      <br>
+      <strong><a href="https://www.douyin.com/video/7537684455952010535">▶️ 视频重绘演示视频</a></strong>
     </td>
   </tr>
 </table>
